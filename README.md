@@ -1,6 +1,6 @@
 **Logistic Regression **
 In the file Classification.ipynb , Logistic Regression mode is made from scratch and Iris data is used to check the functionality
-and the scalibility of the model , additionally the decison boundary is vizualized in otder to check the decison bounday 
+and the scalability of the model , additionally the decison boundary is vizualized in otder to check the decison bounday 
 of the algorithm. On checking the preformance of the model the following stats were generated.
 
 Logistic Regression Evaluation
